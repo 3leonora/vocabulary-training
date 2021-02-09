@@ -8,4 +8,4 @@ It has the following features:
     falsely incorrect. This is remembered!
   - Automatically detects vocabulary files as files ending with '_voc.txt'!
 
-NOTE: VOC-files are supposed to be downloaded from https://1000mostcommonwords.com.
+NOTE: voc-files are supposed to be downloaded (copy-pasted) from https://1000mostcommonwords.com as a list with ~100 words.
